@@ -1,3 +1,6 @@
-test
 
-branch 버그수정중
+master - 이게 진짜 메인이다!! master는 쭉간다!
++) new feature를 머지했개
+
+이게진짜다
+
